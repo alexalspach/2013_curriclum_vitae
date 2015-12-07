@@ -1,0 +1,16 @@
+Init on server
+git-ftp init -u alexalsp -p - ftp://server83.web-hosting.com/public_html/cv_stage
+
+Do git stuff
+
+Push
+git-ftp push -p - ftp://server83.web-hosting.com/public_html/site_stage
+
+
+2.x
+python -m SimpleHTTPServer
+
+3.x
+python -m http.server
+
+http://localhost:8000/cv/index.html
