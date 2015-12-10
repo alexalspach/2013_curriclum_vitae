@@ -1,7 +1,8 @@
 .da-thumbs {
-	width: 100%; !important	
-	
+	width: 101%; !important	
+	margin-left: -4px; !important /*BECAUSE OF 4X0.05 MARGIN AROUND SQUARES FOR SPACING */
 	display: inline-block; !important	
+
 }
 
 .da-thumbs li{
@@ -10,7 +11,7 @@
 	padding: 0px;
 	
 	box-shadow: 0 2px 3px rgba(0,0,0,0.2);
-	
+	/*text-transform: none; !important	*/
 }
 
 .da-thumbs li a div {
