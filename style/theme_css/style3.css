@@ -447,10 +447,12 @@ td.table-title {
 	min-height: 20px;
 	margin-top:12px;
 
-	font-size: 19px;
+	font-size: 20px;
 	font-weight: normal;
 
 	color: #777;
+
+	padding-top: 6px;
 
 
 }
