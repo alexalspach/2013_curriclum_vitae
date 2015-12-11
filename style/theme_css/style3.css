@@ -445,12 +445,18 @@ min-width:60px;
 td.table-title { 
 	width: 10px;
 	min-height: 20px;
+	margin-top:12px;
 
 }
 
+td.table-title { 
+	padding-top:10px;
+}
+
+
 #year{
 	/*min-height: 50px;	*/
-	margin-top:40px;
+
 }
 
 td.table-content { /*width: 1000px;*/}
