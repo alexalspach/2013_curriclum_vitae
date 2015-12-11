@@ -445,6 +445,11 @@ min-width:60px;
 td.table-title { 
 	width: 10px;
 	min-height: 20px;
+
+}
+
+td.year { 
+
 	margin-top:12px;
 
 	font-size: 20px;
