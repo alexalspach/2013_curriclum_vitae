@@ -466,6 +466,14 @@ td.table-links {
 	padding-top:10px;
 }
 
+.paper-title {
+	font-size: 18px;
+	margin-top: 2px;
+    margin-bottom: 2px;
+    font-weight: 700;
+
+}
+
 
 #year{
 	/*min-height: 50px;	*/
