@@ -1,3 +1,4 @@
+
 @charset "UTF-8";
 /* CSS Document */
 
@@ -449,6 +450,7 @@ td.table-title {
 
 #year{
 	/*min-height: 50px;	*/
+	margin-top:40px;
 }
 
 td.table-content { /*width: 1000px;*/}
