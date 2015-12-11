@@ -469,7 +469,7 @@ td.table-links {
 .paper-title {
 	font-size: 18px;
 	margin-top: 2px;
-    margin-bottom: 2px;
+    margin-bottom: 0px;
     font-weight: 700;
 
 }
