@@ -447,6 +447,9 @@ td.table-title {
 	min-height: 20px;
 	margin-top:12px;
 
+	font-size: 30px;
+	font-weight: 700;
+
 }
 
 td.table-links { 
