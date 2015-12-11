@@ -447,8 +447,11 @@ td.table-title {
 	min-height: 20px;
 	margin-top:12px;
 
-	font-size: 30px;
+	font-size: 19px;
 	font-weight: 700;
+
+	color: #777;
+
 
 }
 
