@@ -483,6 +483,17 @@ td.table-links {
 td.table-content { /*width: 1000px;*/}
 
 
+a.flip-colors {
+
+color:#E89C0C;
+
+}
+
+a.flip-colors:hover {
+
+color:#000000;
+}
+
 
 #tabs {
 	padding-top: 0px;
